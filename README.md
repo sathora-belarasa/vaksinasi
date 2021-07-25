@@ -11,7 +11,7 @@ Vaksin Sinovac.
 * Waktu: pukul 8:00 s.d. 13:00.
 
 ## Lokasi Vaksinasi
-[SLB B Pangudi Luhur Jakarta Barat][1]{:target="_blank"} ([peta lokasi][1]{:target="_blank"}) 
+SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu8" target="_blank" alt="peta lokasi vaksinasi">peta lokasi</a>)
 
 ## Tata cara pendaftaran
 
