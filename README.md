@@ -22,14 +22,14 @@ SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu
 ### Kategori 1: Umat Sathora yang tercatat dalam BIDUK
 * Jadwal pendaftaran: 2-12 Agustus 2021.
 * Minimal umur pendaftar 12 tahun.
-* Dilakukan melalui [Web Bela Rasa][2]{:target="_blank"} ([https://belarasa.id][2]{:target="_blank"}) seperti mendaftar misa tatap muka.
+* Dilakukan melalui Web Bela Rasa (<a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">kunjungi situs</a>) seperti mendaftar misa tatap muka.
 * Jika pendaftaran berhasil, tiket akan dikirimkan melalui email.
 * Pendaftar bawa tiket tsb. ke lokasi vaksinasi untuk ditunjukkan kepada petugas.
 
 ### Kategori 2: Pendaftar umum 
 * Jadwal pendaftaran: 5-12 Agustus 2021.
 * Pendaftar dibatasi warga yang memiliki KTP DKI Jakarta berumur minimal 12 tahun.
-* Pendaftaran dilakukan melalui Google Form [di sini][3]{:target="_blank"}. 
+* Pendaftaran dilakukan melalui Google Form <a href="https://forms.gle/JSX5kPLU94psNPFL8" target="_blank" alt="Google Form Pendaftar Umum Vaksinasi">di sini</a>. 
 * Konfirmasi pendaftaran dikirimkan melalui email.
 * Jumlah pendaftar dibatasi kuota.
 
@@ -47,7 +47,3 @@ SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu
 ## Narahubung
 
 Kami dapat dihubungi [di sini](mailto:admin.belarasa+vaksinasi@sathora.or.id).
-
-[1]: <https://goo.gl/maps/qM3xKvebFwkgoSgu8> "SLB B Pangudi Luhur Jakarta Barat"
-[2]: <https://belarasa.id> "Web Bela Rasa"
-[3]: <https://forms.gle/JSX5kPLU94psNPFL8> "Pendaftar umum vaksinasi"
