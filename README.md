@@ -11,7 +11,7 @@ Vaksin Sinovac.
 * Waktu: pukul 8:00 s.d. 13:00.
 
 ## Lokasi Vaksinasi
-SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu8" target="_blank" alt="peta lokasi vaksinasi">peta lokasi</a>)
+SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu8" target="_blank" alt="peta lokasi vaksinasi">lihat peta lokasi</a>)
 
 ## Tata cara pendaftaran
 
@@ -29,7 +29,7 @@ SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu
 ### Kategori 2: Pendaftar umum 
 * Jadwal pendaftaran: 5-12 Agustus 2021.
 * Pendaftar dibatasi warga yang memiliki KTP DKI Jakarta berumur minimal 12 tahun.
-* Pendaftaran dilakukan melalui Google Form <a href="https://forms.gle/JSX5kPLU94psNPFL8" target="_blank" alt="Google Form Pendaftar Umum Vaksinasi">di sini</a>. 
+* Pendaftaran dilakukan melalui Google Form (<a href="https://forms.gle/JSX5kPLU94psNPFL8" target="_blank" alt="Google Form Pendaftar Umum Vaksinasi">daftar sekarang.</a>). 
 * Konfirmasi pendaftaran dikirimkan melalui email.
 * Jumlah pendaftar dibatasi kuota.
 
