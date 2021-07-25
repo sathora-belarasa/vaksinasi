@@ -40,7 +40,7 @@ Vaksin Sinovac.
 * Memakai baju yang nyaman dan longgar (untuk memudahkan saat penyuntikan vaksin).
 * Menggunakan alas kaki yang aman dan nyaman.
 * Bagi perempuan, mohon membawa selendang/_scarf_ sebagai antisipasi dibutuhkan penutup tambahan saat vaksinasi dilaksanakan.
-* Selalu mematuhi protokol kesehatan dengan ketat: (1) menggunakan masker rangkap dua (kombinasi masker medis dengan masker kain) atau (2) menggunakan 1 masker N95; membawa _hand sanitizer_; hindari kerumunan; hindari kontak fisik antar peserta dan selalu menjaga jarak.
+* Selalu mematuhi protokol kesehatan dengan ketat: (1) menggunakan masker rangkap dua (kombinasi masker medis dengan masker kain) atau 1 masker N95; (2) membawa _hand sanitizer_; (3) hindari kerumunan; (4) hindari kontak fisik antar peserta dan selalu menjaga jarak.
 * Sebelum divaksin, hindari minum kopi. Istirahat yang cukup.
 * Mohon konsultasikan kondisi kesehatan dengan dokter pribadi sebelum pelaksanaan vaksinasi untuk menghindari KIPI (Kejadian Ikutan Pasca Imunisasi).
 
