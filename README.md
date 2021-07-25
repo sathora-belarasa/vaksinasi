@@ -38,8 +38,8 @@ Sathora membantu pemerintah memberikan vaksinasi.
 
 ## Persiapan vaksinasi
 
-* Peserta bawa KTP asli.
-* Peserta sudah makan sebelum divaksin.
+* Peserta vaksinasi wajib bawa KTP asli.
+* Peserta vaksinasi sudah makan sebelum divaksin.
 
 ## Narahubung
 
