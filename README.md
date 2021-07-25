@@ -24,7 +24,7 @@ Kami sediakan 2 opsi pendaftaran.
 
 ### Cara 2: Pendaftar umum 
 * Dilakukan mengisi Google Form sesuai regu yang diinginkan. 
-* Setiap regu dibatasi kuota pendaftar.
+* Kuota pendaftar pada setiap regu dibatasi.
 * [Dosis 1 #1 14/08/2021 pk 1000-1100][3]
 * Dosis 1 #2 14/08/2021 pk 1100-1200
 * Dosis 1 #3 14/08/2021 pk 1200-1300
