@@ -2,5 +2,4 @@ theme: jekyll-theme-cayman
 title: Vaksinasi Sathora
 description: Info pendaftaran vaksinasi Sathora
 show-downloads: false
-github:
-  is_project_page: false
+github.is_project_page: false
