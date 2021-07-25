@@ -3,9 +3,9 @@
 Sathora membantu pemerintah memberikan vaksinasi.
 
 ## Jadwal
-* Dosis 1: 14-15 Agustus 2021 
-* Dosis 2: 11-12 September 2021
-* Dimulai pukul 8 s.d. 13; dibagi 5 regu setiap jam (baca t.
+* Dosis 1: Sabtu & Minggu, 14-15 Agustus 2021.
+* Dosis 2: Sabtu & Minggu, 11-12 September 2021.
+* Dimulai pukul 8 s.d. 13; dibagi 5 regu setiap jam.
 
 ## Lokasi
 [SLB B Pangudi Luhur Jakarta Barat][1] 
