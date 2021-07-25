@@ -17,6 +17,7 @@ Sathora membantu pemerintah memberikan vaksinasi.
 
 ### Cara 1: Pendaftar tercatat dalam BIDUK
 * Jadwal pendaftaran: 2-12 Agustus 2021.
+* Minimal umur pendaftar 12 tahun.
 * Dilakukan melalui [Web Bela Rasa][2] seperti mendaftar misa tatap muka.
 * Jika pendaftaran berhasil, tiket akan dikirimkan ke email.
 * Pendaftar bawa tiket tsb. ke lokasi vaksinasi untuk dipindai petugas setelah selesai vaksinasi.
@@ -24,6 +25,7 @@ Sathora membantu pemerintah memberikan vaksinasi.
 
 ### Cara 2: Pendaftar umum 
 * Jadwal pendaftaran: 5-12 Agustus 2021.
+* Dibatasi warga yang memiliki KTP DKI Jakarta berumur minimal 12 tahun.
 * Dilakukan mengisi Google Form sesuai regu yang diinginkan. 
 * Konfirmasi pendaftaran dikirimkan ke email.
 * Kuota pendaftar pada setiap regu dibatasi.
