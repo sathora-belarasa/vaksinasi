@@ -12,13 +12,17 @@ Sathora membantu pemerintah memberikan vaksinasi.
 
 ## Tata cara pendaftaran
 
-### Pendaftar tercatat dalam BIDUK
+Kami sediakan 2 opsi pendaftaran. 
+* Silakan pilih salah satu.
+* Pendaftar yang sama dilarang mendaftar lebih daripada 1 kali dalam semua opsi.
+
+### Cara 1: Pendaftar tercatat dalam BIDUK
 * Dilakukan melalui [Web Bela Rasa][2] seperti mendaftar misa tatap muka.
 * Jika pendaftaran berhasil, tiket akan dikirimkan ke email.
 * Pendaftar bawa tiket tsb. ke lokasi vaksinasi untuk dipindai petugas setelah selesai vaksinasi.
 * Data BIDUK pendaftar terkait vaksinasi akan diperbarui.
 
-### Pendaftar umum 
+### Cara 2: Pendaftar umum 
 * Dilakukan mengisi Google Form sesuai regu yang diinginkan. Setiap regu dibatasi kuota pendaftar.
 * [Dosis 1 #1 14/08/2021 pk 1000-1100][3]
 * Dosis 1 #2 14/08/2021 pk 1100-1200
