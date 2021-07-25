@@ -43,7 +43,7 @@ Sathora membantu pemerintah memberikan vaksinasi.
 
 ## Narahubung
 
-<admin.belarasa+vaksinasi@sathora.or.id>
+<admin.belarasa@sathora.or.id>
 
 [1]: <https://goo.gl/maps/qM3xKvebFwkgoSgu8> "SLB B Pangudi Luhur Jakarta Barat"
 [2]: <https://belarasa.id> "Web Bela Rasa"
