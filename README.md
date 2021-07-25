@@ -48,4 +48,4 @@ SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu
 
 Kami dapat dihubungi [di sini](mailto:admin.belarasa+vaksinasi@sathora.or.id).
 
-![Vaksinasi Sathora dan SLB Pangudi Luhur Jakarta Barat!](/assets/images/poster-1.jpeg "Vaksinasi Sathora dan SLB Pangudi Luhur Jakarta Barat")
+![Vaksinasi Sathora dan SLB Pangudi Luhur Jakarta Barat](/assets/images/poster-1.jpeg "Vaksinasi Sathora dan SLB Pangudi Luhur Jakarta Barat")
