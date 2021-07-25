@@ -25,6 +25,7 @@ Sathora membantu pemerintah memberikan vaksinasi.
 ### Cara 2: Pendaftar umum 
 * Jadwal pendaftaran: 5-12 Agustus 2021.
 * Dilakukan mengisi Google Form sesuai regu yang diinginkan. 
+* Konfirmasi pendaftaran dikirimkan ke email.
 * Kuota pendaftar pada setiap regu dibatasi.
 * [Dosis 1 #1 14/08/2021 pk 1000-1100][3]
 * Dosis 1 #2 14/08/2021 pk 1100-1200
@@ -32,6 +33,11 @@ Sathora membantu pemerintah memberikan vaksinasi.
 * Dosis 1 #4 15/08/2021 pk 0800-0900
 * Dosis 1 #4 15/08/2021 pk 0900-1000
 * Dosis 1 #4 15/08/2021 pk 1000-1100
+
+## Persiapan vaksinasi
+
+* Peserta bawa KTP asli.
+* Peserta sudah makan sebelum divaksin.
 
 ## Narahubung
 
