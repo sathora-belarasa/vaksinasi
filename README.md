@@ -2,44 +2,47 @@
 
 Sathora membantu pemerintah memberikan vaksinasi.
 
+## Jenis Vaksin
+
+Vaksin Sinovac.
+
 ## Jadwal Vaksinasi 
-* Dosis 1: Sabtu & Minggu, 14-15 Agustus 2021.
-* Dosis 2: Sabtu & Minggu, 11-12 September 2021.
-* Dimulai pukul 8 s.d. 13; dibagi 5 regu setiap jam.
+* Hari & tanggal: Sabtu & Minggu, 14-15 Agustus 2021.
+* Waktu: pukul 8:00 s.d. 13:00.
 
 ## Lokasi Vaksinasi
-[SLB B Pangudi Luhur Jakarta Barat][1] 
+[SLB B Pangudi Luhur Jakarta Barat][1] ([peta lokasi][1]) 
 
 ## Tata cara pendaftaran
 
-* Ada 2 opsi pendaftaran; silakan dipilih salah satu yang sesuai kondisi pendaftar.
-* Satu orang dilarang mendaftar lebih daripada 1 kali dalam semua opsi.
+* Ada 2 kategori pendaftaran.
+* Satu orang hanya dapat mendaftar 1 kali dalam semua kategori.
+* Pendaftaran hanya untuk vaksinasi dosis 1.
 
-### Cara 1: Pendaftar tercatat dalam BIDUK
+### Kategori 1: Umat Sathora yang tercatat dalam BIDUK
 * Jadwal pendaftaran: 2-12 Agustus 2021.
 * Minimal umur pendaftar 12 tahun.
-* Dilakukan melalui [Web Bela Rasa][2] seperti mendaftar misa tatap muka.
-* Jika pendaftaran berhasil, tiket akan dikirimkan ke email.
-* Pendaftar bawa tiket tsb. ke lokasi vaksinasi untuk dipindai petugas setelah selesai vaksinasi.
-* Data BIDUK pendaftar terkait vaksinasi akan diperbarui.
+* Dilakukan melalui [Web Bela Rasa][2] ([https://belarasa.id][2]) seperti mendaftar misa tatap muka.
+* Jika pendaftaran berhasil, tiket akan dikirimkan melalui email.
+* Pendaftar bawa tiket tsb. ke lokasi vaksinasi untuk ditunjukkan kepada petugas.
 
-### Cara 2: Pendaftar umum 
+### Kategori 2: Pendaftar umum 
 * Jadwal pendaftaran: 5-12 Agustus 2021.
-* Dibatasi warga yang memiliki KTP DKI Jakarta berumur minimal 12 tahun.
-* Dilakukan mengisi Google Form sesuai regu yang diinginkan. 
-* Konfirmasi pendaftaran dikirimkan ke email.
-* Kuota pendaftar pada setiap regu dibatasi.
-* [Dosis 1 #1 14/08/2021 pk 1000-1100][3]
-* Dosis 1 #2 14/08/2021 pk 1100-1200
-* Dosis 1 #3 14/08/2021 pk 1200-1300
-* Dosis 1 #4 15/08/2021 pk 0800-0900
-* Dosis 1 #4 15/08/2021 pk 0900-1000
-* Dosis 1 #4 15/08/2021 pk 1000-1100
+* Pendaftar dibatasi warga yang memiliki KTP DKI Jakarta berumur minimal 12 tahun.
+* Pendaftaran dilakukan melalui Google Form [di sini][3]. 
+* Konfirmasi pendaftaran dikirimkan melalui email.
+* Jumlah pendaftar dibatasi kuota.
 
-## Persiapan vaksinasi
+## Persiapan peserta vaksinasi
 
-* Peserta vaksinasi wajib bawa KTP asli.
-* Peserta vaksinasi sudah makan sebelum divaksin.
+* Wajib membawa fotokopi KTP atau KK serta pulpen.
+* Harap hadir sesuai jadwal vaksinasi yang dipilih.
+* Memakai baju yang nyaman dan longgar (untuk memudahkan saat penyuntikan vaksin).
+* Menggunakan alas kaki yang aman dan nyaman.
+* Bagi perempuan, mohon membawa selendang/_scarf_ sebagai antisipasi dibutuhkan penutup tambahan saat vaksinasi dilaksanakan.
+* Selalu mematuhi protokol kesehatan dengan ketat: (1) menggunakan masker rangkap dua (kombinasi masker medis dengan masker kain) atau (2) menggunakan 1 masker N95; membawa _hand sanitizer_; hindari kerumunan; hindari kontak fisik antar peserta dan selalu menjaga jarak.
+* Sebelum divaksin, hindari minum kopi. Istirahat yang cukup.
+* Mohon konsultasikan kondisi kesehatan dengan dokter pribadi sebelum pelaksanaan vaksinasi untuk menghindari KIPI (Kejadian Ikutan Pasca Imunisasi).
 
 ## Narahubung
 
@@ -47,4 +50,4 @@ Sathora membantu pemerintah memberikan vaksinasi.
 
 [1]: <https://goo.gl/maps/qM3xKvebFwkgoSgu8> "SLB B Pangudi Luhur Jakarta Barat"
 [2]: <https://belarasa.id> "Web Bela Rasa"
-[3]: <https://forms.gle/JSX5kPLU94psNPFL8> "Pendaftar umum Dosis 1 #1"
+[3]: <https://forms.gle/JSX5kPLU94psNPFL8> "Pendaftar umum vaksinasi"
