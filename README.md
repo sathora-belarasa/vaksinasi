@@ -1,6 +1,6 @@
 # Vaksinasi Sathora
 
-Sathora membantu pemerintah memberikan vaksinasi.
+Sathora dan SLB Pangudi Luhur bekerja sama membantu pemerintah memberikan vaksinasi.
 
 ## Jenis Vaksin
 
