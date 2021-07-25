@@ -11,7 +11,7 @@ Vaksin Sinovac.
 * Waktu: pukul 8:00 s.d. 13:00.
 
 ## Lokasi Vaksinasi
-[SLB B Pangudi Luhur Jakarta Barat][1] ([peta lokasi][1]) 
+[SLB B Pangudi Luhur Jakarta Barat][1]{:target="_blank"} ([peta lokasi][1]{:target="_blank"}) 
 
 ## Tata cara pendaftaran
 
@@ -22,14 +22,14 @@ Vaksin Sinovac.
 ### Kategori 1: Umat Sathora yang tercatat dalam BIDUK
 * Jadwal pendaftaran: 2-12 Agustus 2021.
 * Minimal umur pendaftar 12 tahun.
-* Dilakukan melalui [Web Bela Rasa][2] ([https://belarasa.id][2]) seperti mendaftar misa tatap muka.
+* Dilakukan melalui [Web Bela Rasa][2]{:target="_blank"} ([https://belarasa.id][2]{:target="_blank"}) seperti mendaftar misa tatap muka.
 * Jika pendaftaran berhasil, tiket akan dikirimkan melalui email.
 * Pendaftar bawa tiket tsb. ke lokasi vaksinasi untuk ditunjukkan kepada petugas.
 
 ### Kategori 2: Pendaftar umum 
 * Jadwal pendaftaran: 5-12 Agustus 2021.
 * Pendaftar dibatasi warga yang memiliki KTP DKI Jakarta berumur minimal 12 tahun.
-* Pendaftaran dilakukan melalui Google Form [di sini][3]. 
+* Pendaftaran dilakukan melalui Google Form [di sini][3]{:target="_blank"}. 
 * Konfirmasi pendaftaran dikirimkan melalui email.
 * Jumlah pendaftar dibatasi kuota.
 
