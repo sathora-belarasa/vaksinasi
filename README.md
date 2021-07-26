@@ -29,7 +29,7 @@ SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu
 ### Kategori 2: Pendaftar umum 
 * Jadwal pendaftaran: 5-12 Agustus 2021.
 * Pendaftar dibatasi warga yang memiliki KTP DKI Jakarta berumur minimal 12 tahun.
-* Pendaftaran dilakukan melalui Google Form (<a href="https://forms.gle/JSX5kPLU94psNPFL8" target="_blank" alt="Google Form Pendaftar Umum Vaksinasi">daftar di sini</a>). 
+* Pendaftaran dilakukan melalui Google Form (<a href="https://forms.gle/qfpB1SWB2YjM2JPt8" target="_blank" alt="Google Form Pendaftar Umum Vaksinasi">daftar di sini</a>). 
 * Konfirmasi pendaftaran dikirimkan melalui email.
 * Jumlah pendaftar dibatasi kuota.
 
