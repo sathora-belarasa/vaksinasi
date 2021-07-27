@@ -7,7 +7,7 @@ Sathora dan SLB Pangudi Luhur bekerja sama membantu pemerintah memberikan vaksin
 Vaksin Sinovac.
 
 ## Jadwal Vaksinasi 
-* Hari & tanggal: Sabtu & Minggu, 14-15 Agustus 2021.
+* Hari & tanggal: Sabtu & Minggu, 14 & 15 Agustus 2021.
 * Waktu: pukul 8:00 s.d. 13:00.
 
 ## Lokasi Vaksinasi
