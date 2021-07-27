@@ -42,7 +42,7 @@ SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu
 * Bagi perempuan, mohon membawa selendang/_scarf_ sebagai antisipasi dibutuhkan penutup tambahan saat vaksinasi dilaksanakan.
 * Selalu mematuhi protokol kesehatan dengan ketat: (1) menggunakan masker rangkap dua (kombinasi masker medis dengan masker kain) atau 1 masker N95; (2) membawa _hand sanitizer_; (3) hindari kerumunan; (4) hindari kontak fisik antar peserta dan selalu menjaga jarak.
 * Sebelum divaksin, hindari minum kopi. Istirahat yang cukup.
-* Mohon konsultasikan kondisi kesehatan dengan dokter pribadi sebelum pelaksanaan vaksinasi untuk menghindari KIPI (Kejadian Ikutan Pasca Imunisasi).
+* Bagi yang mempunyai penyakit bawaan, mohon konsultasikan kondisi kesehatan dengan dokter pribadi sebelum pelaksanaan vaksinasi untuk menghindari KIPI (Kejadian Ikutan Pasca Imunisasi).
 
 ## Narahubung
 
