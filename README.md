@@ -1,6 +1,6 @@
 # Vaksinasi Sathora
 
-Sathora dan SLB Pangudi Luhur bekerja sama membantu pemerintah memberikan vaksinasi.
+Sathora dan SLB Pangudi Luhur bekerja sama membantu pemerintah (Kantor Administrasi Jakarta Barat) memberikan vaksinasi.
 
 ## Jenis Vaksin
 
