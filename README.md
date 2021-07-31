@@ -1,6 +1,6 @@
 # Vaksinasi Sathora
 
-Dalam rangka hari kemerdekaan RI, Sathora dan SLB Pangudi Luhur bekerja sama membantu pemerintah (Kantor Administrasi Jakarta Barat) memberikan vaksinasi kepada umat dan warga.
+Dalam rangka hari kemerdekaan RI, Sathora dan SLB Pangudi Luhur bekerja sama membantu pemerintah (Kantor Administrasi Jakarta Barat) memberikan vaksinasi Covid-19 kepada umat dan warga.
 
 ## Jenis Vaksin
 
