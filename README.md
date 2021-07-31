@@ -1,6 +1,6 @@
 # Vaksinasi Sathora
 
-Dalam rangka hari kemerdekaan RI, Sathora dan SLB Pangudi Luhur bekerja sama membantu pemerintah (Kantor Administrasi Jakarta Barat) memberikan vaksinasi Covid-19 kepada umat dan warga.
+Dalam rangka Hari Kemerdekaan RI dan Ulang Tahun Sathora, Paroki Bojong Indah bekerja sama dengan Puskesmas Kecamatan Kembangan dan SLB Pangudi Luhur mengadakan vaksinasi Covid-19 untuk umat Paroki Bojong Indah dan warga.
 
 ## Jenis Vaksin
 
