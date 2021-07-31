@@ -1,6 +1,6 @@
 # Vaksinasi Sathora
 
-Sathora dan SLB Pangudi Luhur bekerja sama membantu pemerintah (Kantor Administrasi Jakarta Barat) memberikan vaksinasi.
+Dalam rangka hari kemerdekaan RI, Sathora dan SLB Pangudi Luhur bekerja sama membantu pemerintah (Kantor Administrasi Jakarta Barat) memberikan vaksinasi kepada umat dan warga.
 
 ## Jenis Vaksin
 
@@ -48,4 +48,4 @@ SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu
 
 Kami dapat dihubungi [di sini](mailto:admin.belarasa+vaksinasi@sathora.or.id).
 
-![Vaksinasi Sathora dan SLB Pangudi Luhur Jakarta Barat](/vaksinasi/docs/assets/poster-1.jpeg "Vaksinasi Sathora dan SLB Pangudi Luhur Jakarta Barat")
+![Vaksinasi Sathora dan SLB Pangudi Luhur Jakarta Barat](/vaksinasi/docs/assets/poster-2.jpeg "Vaksinasi Sathora dan SLB Pangudi Luhur Jakarta Barat")
