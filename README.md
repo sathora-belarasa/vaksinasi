@@ -29,7 +29,7 @@ SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu
 
 ### Kategori 2: Pendaftar umum 
 * Jadwal pendaftaran: 5-12 Agustus 2021.
-* Pendaftar wajib memiliki Nomor Induk Kependudukan (NIK) yang tertulis di Kartu Tanda Penduduk (KTP), Kartu Identitas Anak (KIA), atau Kartu Keluarga (KK).
+* Pendaftar wajib memiliki Nomor Induk Kependudukan (NIK) yang tertulis pada Kartu Tanda Penduduk (KTP), Kartu Identitas Anak (KIA), atau Kartu Keluarga (KK).
 * Pendaftaran dilakukan melalui Google Form (<a href="https://forms.gle/qfpB1SWB2YjM2JPt8" target="_blank" alt="Google Form Pendaftar Umum Vaksinasi">daftar di sini</a>). 
 * Konfirmasi pendaftaran dikirimkan melalui email.
 
