@@ -1,6 +1,6 @@
 # Vaksinasi Sathora
 
-Dalam rangka Hari Kemerdekaan RI dan Ulang Tahun Sathora, Paroki Bojong Indah bekerja sama dengan Puskesmas Kecamatan Kembangan dan SLB Pangudi Luhur mengadakan vaksinasi Covid-19 untuk umat Paroki Bojong Indah dan warga.
+Dalam rangka Hari Kemerdekaan RI dan Ulang Tahun Sathora, Paroki Bojong Indah bekerja sama dengan Sudis Pendidikan Wilayah II, Puskesmas Kec. Kembangan, dan SLB B Pangudi Luhur mengadakan vaksinasi Covid-19 untuk umat Paroki Bojong Indah dan warga.
 
 ## Jenis Vaksin
 
