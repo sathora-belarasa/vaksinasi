@@ -4,7 +4,7 @@ Dalam rangka Hari Kemerdekaan RI dan Ulang Tahun Sathora, Paroki Bojong Indah be
 
 ## Jenis Vaksin
 
-Vaksin Sinovac.
+Vaksin Sinovac (yang berumur antara 12 dan 17 tahun) dan AstraZeneca (yang berumur mulai 18 tahun ke atas).
 
 ## Jadwal Vaksinasi 
 * Hari & tanggal: Sabtu & Minggu, 14 & 15 Agustus 2021.
