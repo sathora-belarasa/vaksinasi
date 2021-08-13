@@ -2,6 +2,8 @@
 
 Dalam rangka Hari Kemerdekaan RI dan Ulang Tahun Sathora, Paroki Bojong Indah bekerja sama dengan Sudis Pendidikan Wilayah II, Puskesmas Kec. Kembangan, dan SLB B Pangudi Luhur mengadakan vaksinasi Covid-19 untuk umat Paroki Bojong Indah dan warga.
 
+Pendaftaran telah ditutup. Namun, bagi yang belum sempat daftar silakan datang langsung mulai pk 10:00 s.d. 13:00. Tersedia goody bag menarik.
+
 ## Jenis Vaksin
 
 Vaksin Sinovac (yang berumur antara 12 dan 17 tahun, atau ibu hamil) dan AstraZeneca (yang berumur mulai 18 tahun ke atas).
@@ -12,7 +14,7 @@ Vaksin Sinovac (yang berumur antara 12 dan 17 tahun, atau ibu hamil) dan AstraZe
 
 ## Lokasi Vaksinasi
 SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu8" target="_blank" alt="peta lokasi vaksinasi">lihat peta lokasi</a>)
-
+<!---
 ## Tata cara pendaftaran
 
 * Ada 2 kategori pendaftaran.
@@ -32,7 +34,7 @@ SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu
 * Pendaftar wajib memiliki Nomor Induk Kependudukan (NIK) yang tertulis pada Kartu Tanda Penduduk (KTP), Kartu Identitas Anak (KIA), atau Kartu Keluarga (KK).
 * Pendaftaran dilakukan melalui Google Form (<a href="https://forms.gle/qfpB1SWB2YjM2JPt8" target="_blank" alt="Google Form Pendaftar Umum Vaksinasi">daftar di sini</a>). 
 * Konfirmasi pendaftaran dikirimkan melalui email setelah pendaftaran hari terakhir ditutup. Wajib dibawa untuk ditunjukkan kepada petugas.
-
+-->
 ## Persiapan peserta vaksinasi
 
 * Wajib membawa fotokopi KTP/KIA/KK dan pulpen.
