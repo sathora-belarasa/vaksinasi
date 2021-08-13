@@ -14,7 +14,7 @@ Vaksin Sinovac (yang berumur antara 12 dan 17 tahun, atau ibu hamil) dan AstraZe
 
 ## Lokasi Vaksinasi
 SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu8" target="_blank" alt="peta lokasi vaksinasi">lihat peta lokasi</a>)
-<!---
+<!--
 ## Tata cara pendaftaran
 
 * Ada 2 kategori pendaftaran.
