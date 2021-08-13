@@ -6,13 +6,16 @@ Dalam rangka Hari Kemerdekaan RI dan Ulang Tahun Sathora, Paroki Bojong Indah be
 
 ## Jenis Vaksin
 
-Vaksin Sinovac (yang berumur antara 12 dan 17 tahun, atau ibu hamil) dan AstraZeneca (yang berumur mulai 18 tahun ke atas).
+* Vaksin Sinovac (yang berumur antara 12 dan 17 tahun, atau ibu hamil)
+* AstraZeneca (yang berumur mulai 18 tahun ke atas)
 
 ## Jadwal Vaksinasi 
+
 * Hari & tanggal: Sabtu & Minggu, 14 & 15 Agustus 2021.
 * Waktu: pukul 8:00 s.d. 13:00.
 
 ## Lokasi Vaksinasi
+
 SLB B Pangudi Luhur Jakarta Barat (<a href="https://goo.gl/maps/qM3xKvebFwkgoSgu8" target="_blank" alt="peta lokasi vaksinasi">lihat peta lokasi</a>)
 
 ## Persiapan peserta vaksinasi
