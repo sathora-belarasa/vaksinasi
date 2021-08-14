@@ -2,7 +2,7 @@
 
 Dalam rangka Hari Kemerdekaan RI dan Ulang Tahun Sathora, Paroki Bojong Indah bekerja sama dengan Sudis Pendidikan Wilayah II, Puskesmas Kec. Kembangan, dan SLB B Pangudi Luhur mengadakan vaksinasi Covid-19 untuk umat Paroki Bojong Indah dan warga.
 
-**Pendaftaran telah ditutup. Namun, bagi yang ingin divaksin silakan datang langsung mulai pk 10:00 s.d. 13:00. Tersedia goody bag menarik. Harap baca bagian persiapan peserta vaksinasi di bawah.**
+**Pendaftaran telah ditutup. Namun, bagi yang ingin divaksin silakan datang langsung mulai pk 10:00 s.d. 13:00 (hari kesatu) dan pk 8:00 s.d. 13:00 (hari kedua). Tersedia goody bag menarik. Harap baca bagian persiapan peserta vaksinasi di bawah.**
 
 ## Jenis Vaksin
 
